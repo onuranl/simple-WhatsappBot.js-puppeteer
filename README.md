@@ -1,3 +1,3 @@
 # simple-WhatsappBot.js-puppeteer
 
-npm init
+for doc : https://pptr.dev/
